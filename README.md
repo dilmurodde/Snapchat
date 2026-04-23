@@ -1,14 +1,18 @@
-# Aiogram 3 Tanishuv Boti
+# 💖 Snapchat Style Dating Bot
 
-Ushbu bot foydalanuvchilarga o'z profilini yaratish, boshqa profillarni ko'rish va o'zaro match bo'lganda suhbatlashish imkonini beradi.
+Ushbu bot Telegram-da Snapchat uslubidagi tanishuv xizmatini taqdim etadi. Foydalanuvchilar ro'yxatdan o'tishi, profil yaratishi, Like/Dislike bosishi va o'zaro yoqqanlar bilan chatda gaplashishi mumkin.
 
-## Xususiyatlari
-* **Ro'yxatdan o'tish:** Ism, yosh, jins va bio.
-* **Tanishuv:** Profillarga like yoki dislike bosish.
-* **Chat:** O'zaro yoqqan foydalanuvchilar bilan bot ichida gaplashish.
+## ✨ Xususiyatlari
+- **Ro'yxatdan o'tish:** Ism, yosh, jins va bio kiritish.
+- **Profil rasmi:** Foydalanuvchi o'z profiliga rasm yuklashi mumkin.
+- **Tanishuv (Discovery):** Tasodifiy profillarni ko'rish va Like/Dislike bosish.
+- **Match tizimi:** Agar ikki foydalanuvchi bir-biriga Like bossa, "Match" sodir bo'ladi.
+- **Chat:** Match bo'lgan foydalanuvchilar bot ichida o'zaro gaplashishi mumkin.
 
-## Ishga tushirish
-1. Bot tokenini `main.py` ga yozing.
-2. Kerakli kutubxonalarni o'rnating:
+## 🛠️ O'rnatish
+
+1. Loyihani yuklab oling (clone):
    ```bash
-   pip install -r requirements.txt
+   git clone <repo-url>
+   cd <repo-name>
+   
