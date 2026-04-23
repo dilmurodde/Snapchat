@@ -1,5 +1,7 @@
-.env
 dating_bot.db
 __pycache__/
 *.pyc
+.env
+venv/
+.idea/
 .vscode/
